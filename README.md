@@ -1,5 +1,4 @@
 # Quizo - Quiz Management System
-![Alt text](https://github.com/Arpita-oss/Quizzo/blob/main/quizo_frontend/src/assets/Screenshot%202025-02-15%20235035.png)
 
 ## 📌 Project Overview
 
@@ -35,7 +34,7 @@
 ### Backend
 - Node.js + Express
 - TypeScript
-- MySQL (Database)
+- Postgre SQL (Database)
 
 ## 🗄️ Database Schema
 
@@ -61,7 +60,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Arpita-oss/Quizzo.git
+git clone https://github.com/sandeep2351/Quizzo.git
 cd quizo
 ```
 
